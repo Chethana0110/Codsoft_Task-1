@@ -195,6 +195,21 @@ nav a:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
+/* Contributors section */
+.contributors {
+    padding: 6rem 0;
+    background-color: #f9f9f9;
+    position: relative;
+}
+
+.contributors .container {
+    max-width: 1200px; 
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 
 /* Services Section */
 .services {
